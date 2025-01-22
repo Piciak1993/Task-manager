@@ -1,7 +1,5 @@
 # Task-manager
 
-# Nazwa Projektu
-Task Manager
 
 ## Opis projektu
 Aplikacja jest systemem zarządzania modułami, który obsługuje użytkowników, wydarzenia oraz powiadomienia. Jest zbudowana w oparciu o mikrousługi i pozwala na włączanie i wyłączanie wybranych modułów.
