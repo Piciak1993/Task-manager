@@ -63,4 +63,4 @@ Projekt opracowany przez PC & PŁ.
 
 ## Informacje dodatkowe
 - W razie problemów skontaktuj się z administratorem.
-- Dokumentacja techniczna znajduje się w folderze `docs/`.
+- Dokumentacja techniczna znajduje się w pliku Project.md
